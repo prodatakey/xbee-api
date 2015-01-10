@@ -1,5 +1,7 @@
 # xbee-api [![Build Status](https://travis-ci.org/jankolkmeier/xbee-api.svg?branch=master)](https://travis-ci.org/jankolkmeier/xbee-api)
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/prodatakey/xbee-api?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The [xbee-api](http://github.com/jankolkmeier/xbee-api/) [Node.js](http://nodejs.org/) module helps you
 parsing and building API frames that are used to communicate with radio modules talking
 the [802.15.4](http://en.wikipedia.org/wiki/IEEE_802.15.4) and [ZigBee](http://en.wikipedia.org/wiki/ZigBee) (including **ZNet**) protocol stacks.
